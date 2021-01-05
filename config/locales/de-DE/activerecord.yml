@@ -34,8 +34,8 @@ de:
         one: "Tag"
         other: "Tags"
       user:
-        one: "Benutzer*in"
-        other: "Benutzer*innen"
+        one: "Benutzer"
+        other: "Benutzer"
       moderator:
         one: "Moderator*in"
         other: "Moderator*innen"
