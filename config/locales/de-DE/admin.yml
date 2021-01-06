@@ -102,8 +102,8 @@ de:
           zero: "Den Begutachtern/Begutachterinnen wählen"
           one: "1 Begutacher ausgewählt"
           other: "%{count} Begutachter ausgewählt"
-        empty_administrators: "Keine Administrator*innen vorhanden"
-        empty_valuators: "Keine Begutachter*innen vorhanden"
+        empty_administrators: "Keine Administratoren vorhanden"
+        empty_valuators: "Keine Begutachter vorhanden"
       destroy:
         success_notice: Bürgerhaushalt erfolgreich gelöscht
         unable_notice: Ein Bürgerhaushalt mit zugehörigen Ausgabenvorschlägen kann nicht gelöscht werden
