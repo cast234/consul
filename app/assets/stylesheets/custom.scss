@@ -509,8 +509,7 @@ a {
 // ----------
 
 header {
-  // display: none;
-  background: white;
+  background: $brand;
   border-bottom: 1px solid $border;
   margin-bottom: $line-height;
 
@@ -707,7 +706,8 @@ header {
 }
 
 .top-links {
-  background: none;
+ display: none;
+ background: none;
   color: #fff;
   font-size: $small-font-size;
   padding-right: $line-height / 2;
