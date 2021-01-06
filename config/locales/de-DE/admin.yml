@@ -159,14 +159,14 @@ de:
         back: "Zurück zu Gruppen"
     budget_phases:
       edit:
-        summary_help_text: Dieser Text informiert die Benutzer*innen über die jeweilige Phase. Um den Text anzuzeigen, auch wenn die Phase nicht aktiv ist, klicken sie das untenstehende Kästchen an
+        summary_help_text: Dieser Text informiert die Benutzer über die jeweilige Phase. Um den Text anzuzeigen, auch wenn die Phase nicht aktiv ist, klicken sie das untenstehende Kästchen an
         description_help_text: Dieser Text erscheint in der Kopfzeile, wenn die Phase aktiv ist
         enabled_help_text: Diese Phase wird öffentlich in der Zeitleiste der Phasen des Bürgerhaushalts angezeigt und ist auch für andere Zwecke aktiv
         save_changes: Änderungen speichern
     budget_investments:
       index:
         heading_filter_all: Alle Überschriften
-        administrator_filter_all: Alle Administrator*innen
+        administrator_filter_all: Alle Administratoren
         valuator_filter_all: Alle Begutachter*innen
         tags_filter_all: Alle Tags
         advanced_filters: Erweiterte Filter
