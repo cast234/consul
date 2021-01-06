@@ -22,7 +22,7 @@ de:
       user_permission_verify: Damit Sie alle Funktionen nutzen können, müssen Sie ihr Konto verifizieren.
       user_permission_verify_info: "* Nur für in der Volkszählung registrierte Nutzer."
       user_permission_votes: An finaler Abstimmung teilnehmen
-      username_label: Benutzer*innenname
+      username_label: Benutzername
       verified_account: Konto verifiziert
       verify_my_account: Mein Konto verifizieren
   application:
@@ -127,7 +127,7 @@ de:
         title: Hilfe zu Diskussionen
         description: Teilen Sie ihre Meinung mit anderen in einer Diskussion über Themen, die Sie interessieren.
         help_text_1: "Der Raum für Diskussionen richtet sich an alle, die ihr Anliegen darlegen können und sich mit anderen Menschen austauschen wollen."
-        help_text_2: 'Um eine Diskussion zu eröffnen, müssen Sie sich auf %{org} registrieren. Benutzer*innen können auch offene Diskussionen kommentieren und sie über "Ich stimme zu" oder "Ich stimme nicht zu" Buttons bewerten.'
+        help_text_2: 'Um eine Diskussion zu eröffnen, müssen Sie sich auf %{org} registrieren. Benutzer können auch offene Diskussionen kommentieren und sie über "Ich stimme zu" oder "Ich stimme nicht zu" Buttons bewerten.'
     new:
       form:
         submit_button: Eine Diskussion starten
@@ -413,9 +413,9 @@ de:
       support: Unterstützung
       support_title: Vorschlag unterstützen
       supports:
-        zero: Keine Unterstützer*innen
-        one: 1 Unterstützer/in
-        other: "%{count} Unterstützer/innen"
+        zero: Keine Unterstützer
+        one: 1 Unterstützer
+        other: "%{count} Unterstützer"
       votes:
         zero: Keine Bewertung
         one: 1 Stimme
@@ -459,7 +459,7 @@ de:
       mailing: E-Mail
       poster: Poster
       recommended_actions: Empfohlene Aktionen
-      messages: Nachricht an Benutzer*innen
+      messages: Nachricht an Benutzer
       related_content: Verwandte Inhalte
     form:
       request: Anfrage
